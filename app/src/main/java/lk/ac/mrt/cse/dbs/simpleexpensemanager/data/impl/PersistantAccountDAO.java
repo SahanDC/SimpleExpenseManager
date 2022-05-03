@@ -99,7 +99,7 @@ public class PersistantAccountDAO extends DatabaseHelper implements AccountDAO {
             balance += amount;
         }
 
-        String queryString = "UPDATE " + ACCOUNT_TABLE + " SET " + BALANCE + " = " + balance + " WHERE " + ACCOUNT_ID + "=\"" + accountNo +"\";";
+        String queryString = "UPDATE " + ACCOUNT_TABLE + " SET " + BALANCE + " = " + balance + " WHERE " + ACCOUNT_ID + " = \"" + accountNo +"\";";
         db.execSQL(queryString);
         db.close();
     }

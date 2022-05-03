@@ -33,7 +33,7 @@ public class PersistantAccountDAO extends DatabaseHelper implements AccountDAO {
             } while (cursor.moveToNext());
         }
         cursor.close();
-        db.close();
+//        db.close();
         return AccountNumberList;
     }
 
@@ -53,7 +53,7 @@ public class PersistantAccountDAO extends DatabaseHelper implements AccountDAO {
             } while (cursor.moveToNext());
         }
         cursor.close();
-        db.close();
+//        db.close();
         return AccountList;
     }
 
@@ -73,7 +73,7 @@ public class PersistantAccountDAO extends DatabaseHelper implements AccountDAO {
             account = null;
         }
         cursor.close();
-        db.close();
+//        db.close();
         return account;
     }
 

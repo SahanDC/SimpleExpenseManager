@@ -23,7 +23,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
     public static final String EXPENSE_TYPE = "Expense_Type";
 
     public DatabaseHelper(@Nullable Context context) {
-        super(context, "miniProject.db", null, 1);
+        super(context, "190097J.db", null, 1);
     }
 
     //when there is no database. when first run the code this method will be called and create the database

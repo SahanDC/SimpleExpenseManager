@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\CSE Semester 4\\03 Database Systems - CS3042 - 3 Cr\\Mini Project\\SimpleExpenseManager\\app\\build\\intermediates\\merged_res\\debugAndroidTest\\values_values.arsc.flat",
+            "outputFile": "lk.ac.mrt.cse.dbs.simpleexpensemanager.test.app-merged_res-6:/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\Osura\\.gradle\\caches\\transforms-3\\ad7a3ba1ecabb15887da9ed8f181167f\\transformed\\core-1.4.1-alpha06\\res\\values\\values.xml",
+                    "source": "C:\\Users\\Osura\\.gradle\\caches\\transforms-3\\0df391eabe3bf98503aeb6c03b2978e7\\transformed\\core-1.4.1-alpha06\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,11",
                         "startColumns": "0,0",
@@ -25,34 +25,10 @@
             ]
         },
         {
-            "outputFile": "E:\\CSE Semester 4\\03 Database Systems - CS3042 - 3 Cr\\Mini Project\\SimpleExpenseManager\\app\\build\\intermediates\\merged_res\\debugAndroidTest\\values-v18_values-v18.arsc.flat",
+            "outputFile": "lk.ac.mrt.cse.dbs.simpleexpensemanager.test.app-merged_res-6:/values-v21_values-v21.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\Osura\\.gradle\\caches\\transforms-3\\ad7a3ba1ecabb15887da9ed8f181167f\\transformed\\core-1.4.1-alpha06\\res\\values-v18\\values.xml",
-                    "from": {
-                        "startLines": "4,12",
-                        "startColumns": "0,0",
-                        "startOffsets": "180,596",
-                        "endLines": "11,19",
-                        "endColumns": "8,8",
-                        "endOffsets": "595,1009"
-                    },
-                    "to": {
-                        "startLines": "2,10",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,475",
-                        "endLines": "9,17",
-                        "endColumns": "8,8",
-                        "endOffsets": "470,888"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "E:\\CSE Semester 4\\03 Database Systems - CS3042 - 3 Cr\\Mini Project\\SimpleExpenseManager\\app\\build\\intermediates\\merged_res\\debugAndroidTest\\values-v21_values-v21.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\Osura\\.gradle\\caches\\transforms-3\\ad7a3ba1ecabb15887da9ed8f181167f\\transformed\\core-1.4.1-alpha06\\res\\values-v21\\values.xml",
+                    "source": "C:\\Users\\Osura\\.gradle\\caches\\transforms-3\\0df391eabe3bf98503aeb6c03b2978e7\\transformed\\core-1.4.1-alpha06\\res\\values-v21\\values.xml",
                     "from": {
                         "startLines": "4,13",
                         "startColumns": "0,0",
@@ -73,10 +49,34 @@
             ]
         },
         {
-            "outputFile": "E:\\CSE Semester 4\\03 Database Systems - CS3042 - 3 Cr\\Mini Project\\SimpleExpenseManager\\app\\build\\intermediates\\merged_res\\debugAndroidTest\\values-v28_values-v28.arsc.flat",
+            "outputFile": "lk.ac.mrt.cse.dbs.simpleexpensemanager.test.app-merged_res-6:/values-v18_values-v18.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\Osura\\.gradle\\caches\\transforms-3\\ad7a3ba1ecabb15887da9ed8f181167f\\transformed\\core-1.4.1-alpha06\\res\\values-v28\\values.xml",
+                    "source": "C:\\Users\\Osura\\.gradle\\caches\\transforms-3\\0df391eabe3bf98503aeb6c03b2978e7\\transformed\\core-1.4.1-alpha06\\res\\values-v18\\values.xml",
+                    "from": {
+                        "startLines": "4,12",
+                        "startColumns": "0,0",
+                        "startOffsets": "180,596",
+                        "endLines": "11,19",
+                        "endColumns": "8,8",
+                        "endOffsets": "595,1009"
+                    },
+                    "to": {
+                        "startLines": "2,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,475",
+                        "endLines": "9,17",
+                        "endColumns": "8,8",
+                        "endOffsets": "470,888"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "lk.ac.mrt.cse.dbs.simpleexpensemanager.test.app-merged_res-6:/values-v28_values-v28.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Osura\\.gradle\\caches\\transforms-3\\0df391eabe3bf98503aeb6c03b2978e7\\transformed\\core-1.4.1-alpha06\\res\\values-v28\\values.xml",
                     "from": {
                         "startLines": "4,13",
                         "startColumns": "0,0",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\CSE Semester 4\\03 Database Systems - CS3042 - 3 Cr\\Mini Project\\SimpleExpenseManager\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "lk.ac.mrt.cse.dbs.simpleexpensemanager.app-mergeDebugResources-9:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Osura\\.gradle\\caches\\transforms-3\\6b9b50c4d8c3b8c03e839aa5266dd695\\transformed\\appcompat-v7-26.1.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Osura\\.gradle\\caches\\transforms-3\\eaffea3e6b20d762ee519ea2157914ce\\transformed\\appcompat-v7-26.1.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Osura\\.gradle\\caches\\transforms-3\\5f73f6e60b5d3708c89ef864d43025d1\\transformed\\support-compat-26.1.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Osura\\.gradle\\caches\\transforms-3\\b0324809c2b8be9fe4de604a7fcc0c3c\\transformed\\support-compat-26.1.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

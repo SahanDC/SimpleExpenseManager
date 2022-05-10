@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\CSE Semester 4\\03 Database Systems - CS3042 - 3 Cr\\Mini Project\\SimpleExpenseManager\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v18\\values-v18.xml",
+            "outputFile": "lk.ac.mrt.cse.dbs.simpleexpensemanager.test.app-mergeDebugAndroidTestResources-4:/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Osura\\.gradle\\caches\\transforms-3\\ad7a3ba1ecabb15887da9ed8f181167f\\transformed\\core-1.4.1-alpha06\\res\\values-v18\\values.xml",
+                    "source": "C:\\Users\\Osura\\.gradle\\caches\\transforms-3\\0df391eabe3bf98503aeb6c03b2978e7\\transformed\\core-1.4.1-alpha06\\res\\values-v18\\values.xml",
                     "from": {
                         "startLines": "4,12",
                         "startColumns": "0,0",

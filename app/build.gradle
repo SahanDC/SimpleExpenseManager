@@ -17,13 +17,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 26
+    compileSdkVersion 30
     //buildToolsVersion "23.0.2"
 
     defaultConfig {
         applicationId "lk.ac.mrt.cse.dbs.simpleexpensemanager"
         minSdkVersion 19
-        targetSdkVersion 26
+        targetSdkVersion 30
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
@@ -34,6 +34,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    namespace 'lk.ac.mrt.cse.dbs.simpleexpensemanager'
 }
 
 dependencies {

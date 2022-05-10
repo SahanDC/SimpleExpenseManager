@@ -19,7 +19,9 @@ package lk.ac.mrt.cse.dbs.simpleexpensemanager;
 import static org.junit.Assert.assertTrue;
 
 import android.content.Context;
+
 import androidx.test.core.app.ApplicationProvider;
+
 import org.junit.Before;
 import org.junit.Test;
 
@@ -27,7 +29,6 @@ import java.util.List;
 
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.control.ExpenseManager;
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.control.PersistantExpenseManager;
-import lk.ac.mrt.cse.dbs.simpleexpensemanager.control.exception.ExpenseManagerException;
 
 /**
  * <a href="http://d.android.com/tools/testing/testing_android.html">Testing Fundamentals</a>

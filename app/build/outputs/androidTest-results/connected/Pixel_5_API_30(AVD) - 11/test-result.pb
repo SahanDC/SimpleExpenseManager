@@ -1,7 +1,7 @@
 
 è
 e
-ApplicationTest&lk.ac.mrt.cse.dbs.simpleexpensemanagertestAddAccount2ˆİé“À«¯§:ˆİé“€˜ÿÍ"Š
+ApplicationTest&lk.ac.mrt.cse.dbs.simpleexpensemanagertestAddAccount2Àæé“€À·:Àæé“€–¬Û"Š
 
 logcatandroidô
 ñE:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\outputs\androidTest-results\connected\Pixel_5_API_30(AVD) - 11\logcat-lk.ac.mrt.cse.dbs.simpleexpensemanager.ApplicationTest-testAddAccount.txt"Í

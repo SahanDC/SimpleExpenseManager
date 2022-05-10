@@ -22,7 +22,7 @@
 22    <uses-sdk
 23        android:minSdkVersion="19"
 23-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml
-24        android:targetSdkVersion="32" />
+24        android:targetSdkVersion="26" />
 24-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml
 25
 26    <application

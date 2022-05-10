@@ -3,24 +3,24 @@
 3    package="lk.ac.mrt.cse.dbs.simpleexpensemanager.test" >
 4
 5    <uses-sdk
-5-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest2187957572201994762.xml:5:5-74
+5-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4306204603148196922.xml:5:5-74
 6        android:minSdkVersion="19"
-6-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest2187957572201994762.xml:5:15-41
+6-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4306204603148196922.xml:5:15-41
 7        android:targetSdkVersion="32" />
-7-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest2187957572201994762.xml:5:42-71
+7-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4306204603148196922.xml:5:42-71
 8
 9    <instrumentation
-9-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest2187957572201994762.xml:11:5-15:88
+9-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4306204603148196922.xml:11:5-15:88
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest2187957572201994762.xml:11:22-76
+10-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4306204603148196922.xml:11:22-76
 11        android:functionalTest="false"
-11-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest2187957572201994762.xml:14:22-52
+11-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4306204603148196922.xml:14:22-52
 12        android:handleProfiling="false"
-12-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest2187957572201994762.xml:13:22-53
+12-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4306204603148196922.xml:13:22-53
 13        android:label="Tests for lk.ac.mrt.cse.dbs.simpleexpensemanager"
-13-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest2187957572201994762.xml:15:22-86
+13-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4306204603148196922.xml:15:22-86
 14        android:targetPackage="lk.ac.mrt.cse.dbs.simpleexpensemanager" />
-14-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest2187957572201994762.xml:12:22-84
+14-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4306204603148196922.xml:12:22-84
 15
 16    <uses-permission android:name="android.permission.REORDER_TASKS" />
 16-->[androidx.test:core:1.4.1-alpha06] C:\Users\Osura\.gradle\caches\transforms-3\ad7a3ba1ecabb15887da9ed8f181167f\transformed\core-1.4.1-alpha06\AndroidManifest.xml:24:5-72
@@ -40,10 +40,10 @@
 22    </queries>
 23
 24    <application android:debuggable="true" >
-24-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest2187957572201994762.xml:7:5-9:19
+24-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4306204603148196922.xml:7:5-9:19
 25        <uses-library android:name="android.test.runner" />
-25-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest2187957572201994762.xml:8:9-60
-25-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest2187957572201994762.xml:8:23-57
+25-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4306204603148196922.xml:8:9-60
+25-->E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4306204603148196922.xml:8:23-57
 26
 27        <activity
 27-->[androidx.test:core:1.4.1-alpha06] C:\Users\Osura\.gradle\caches\transforms-3\ad7a3ba1ecabb15887da9ed8f181167f\transformed\core-1.4.1-alpha06\AndroidManifest.xml:27:9-34:20

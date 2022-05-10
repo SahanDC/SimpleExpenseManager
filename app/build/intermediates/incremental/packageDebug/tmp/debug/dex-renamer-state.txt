@@ -1,4 +1,4 @@
-#Tue May 10 15:24:27 IST 2022
+#Tue May 10 19:24:07 IST 2022
 base.0=E\:\\CSE Semester 4\\03 Database Systems - CS3042 - 3 Cr\\Mini Project\\SimpleExpenseManager\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

@@ -31,7 +31,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
     public void onCreate(SQLiteDatabase sqLiteDatabase) {
         String queryOfCreatingTable1 = "CREATE TABLE " + ACCOUNT_TABLE + "(" + ACCOUNT_ID + " TEXT PRIMARY KEY," + BANK_NAME + " TEXT," + ACCOUNT_HOLDER_NAME + " TEXT," + BALANCE + " REAL )";
         sqLiteDatabase.execSQL(queryOfCreatingTable1);
-        String queryOfCreatingTable2 = "CREATE TABLE " + TRANSACTION_TABLE + "(" + TRANSACTION_ID + " INTEGER PRIMARY KEY AUTOINCREMENT," + TRASACTION_DATE + " DATE, " + TRASACTION_ACCOUNT_ID + " REFERENCES ACCOUNT_TABLE(Account_ID) , " + TRANSACTION_AMOUNT + " REAL, " + EXPENSE_TYPE + " TEXT )";
+        String queryOfCreatingTable2 = "CREATE TABLE " + TRANSACTION_TABLE + "(" + TRANSACTION_ID + " INTEGER PRIMARY KEY AUTOINCREMENT," + TRASACTION_DATE + " DATE, " + TRASACTION_ACCOUNT_ID + " REFERENCES ACCOUNT_TABLE(ACCOUNT_ID) , " + TRANSACTION_AMOUNT + " REAL, " + EXPENSE_TYPE + " TEXT )";
         sqLiteDatabase.execSQL(queryOfCreatingTable2);
     }
 

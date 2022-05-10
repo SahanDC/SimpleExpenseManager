@@ -1,0 +1,20 @@
+
+è
+e
+ApplicationTest&lk.ac.mrt.cse.dbs.simpleexpensemanagertestAddAccount2Ùé“€‰Œõ:Ùé“€ƒ“"Š
+
+logcatandroidô
+ñE:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\outputs\androidTest-results\connected\Pixel_5_API_30(AVD) - 11\logcat-lk.ac.mrt.cse.dbs.simpleexpensemanager.ApplicationTest-testAddAccount.txt"Í
+
+device-infoandroid²
+¯E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\outputs\androidTest-results\connected\Pixel_5_API_30(AVD) - 11\device-info.pb"Î
+
+device-info.meminfoandroid«
+¨E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\outputs\androidTest-results\connected\Pixel_5_API_30(AVD) - 11\meminfo"Î
+
+device-info.cpuinfoandroid«
+¨E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\outputs\androidTest-results\connected\Pixel_5_API_30(AVD) - 11\cpuinfo*²
+c
+test-results.logOcom.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver¼
+¹E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\build\outputs\androidTest-results\connected\Pixel_5_API_30(AVD) - 11\testlog\test-results.log 2
+text/plain

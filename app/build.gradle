@@ -17,15 +17,16 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 26
-    //buildToolsVersion "23.0.2"
+    compileSdkVersion 32
+    buildToolsVersion "23.0.2"
 
     defaultConfig {
         applicationId "lk.ac.mrt.cse.dbs.simpleexpensemanager"
         minSdkVersion 19
-        targetSdkVersion 26
+        targetSdkVersion 32
         versionCode 1
         versionName "1.0"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
         release {
@@ -38,6 +39,14 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     testImplementation 'junit:junit:4.12'
+    //noinspection GradleCompatible
     implementation 'com.android.support:appcompat-v7:26.1.0'
+    //noinspection GradleCompatible,GradleCompatible
     implementation 'com.android.support:design:26.1.0'
+    //  "androidx.test:runner:$androidXTestVersion"
+    // androidTestImplementation "androidx.test:rules:$androidXTestVersion"
+    androidTestImplementation 'androidx.test:core:1.4.1-alpha06'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.4-alpha06'
+    androidTestImplementation 'androidx.test:runner:1.5.0-alpha03'
+
 }

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
-INJECTED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
-INJECTED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
-INJECTED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
+ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-40:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\Osura\.gradle\caches\transforms-3\b695e826180a520aeeb3dae9e64baca0\transformed\design-26.1.0\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Osura\.gradle\caches\transforms-3\6b9b50c4d8c3b8c03e839aa5266dd695\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Osura\.gradle\caches\transforms-3\7c10509b4ef942b950542c61ad320d20\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:17:1-28:12
@@ -17,25 +17,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Osura\.grad
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Osura\.gradle\caches\transforms-3\c13ddf09effe898a5a02df3ebeb5021f\transformed\support-core-ui-26.1.0\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Osura\.gradle\caches\transforms-3\5f73f6e60b5d3708c89ef864d43025d1\transformed\support-compat-26.1.0\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Osura\.gradle\caches\transforms-3\dc48bbc4f10d54b737f5738d7e120e6b\transformed\runtime-1.0.0\AndroidManifest.xml:17:1-30:12
-INJECTED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
-INJECTED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
-INJECTED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
+INJECTED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-40:12
 	package
 		ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:19:11-59
 		INJECTED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml
 		INJECTED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml
-		ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
+		ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-40:12
 		INJECTED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml
-		ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
+		ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-40:12
 		INJECTED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:11-69
 application
-ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:21:5-37:19
+ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:21:5-38:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\Osura\.gradle\caches\transforms-3\b695e826180a520aeeb3dae9e64baca0\transformed\design-26.1.0\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\Osura\.gradle\caches\transforms-3\b695e826180a520aeeb3dae9e64baca0\transformed\design-26.1.0\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Osura\.gradle\caches\transforms-3\6b9b50c4d8c3b8c03e839aa5266dd695\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:25:5-29:19
@@ -73,23 +73,25 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Osura\.gradle\caches
 	android:theme
 		ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:26:9-40
 activity#lk.ac.mrt.cse.dbs.simpleexpensemanager.ui.MainActivity
-ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:27:9-36:20
+ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:27:9-37:20
 	android:label
 		ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:29:13-45
+	android:exported
+		ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:31:13-36
 	android:theme
 		ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:30:13-56
 	android:name
 		ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:28:13-44
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:31:13-35:29
+ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:32:13-36:29
 action#android.intent.action.MAIN
-ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:32:17-68
+ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:33:17-68
 	android:name
-		ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:32:25-66
+		ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:33:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:34:17-76
+ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:35:17-76
 	android:name
-		ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:34:27-74
+		ADDED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:35:27-74
 uses-sdk
 INJECTED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\CSE Semester 4\03 Database Systems - CS3042 - 3 Cr\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml
